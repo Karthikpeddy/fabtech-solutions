@@ -94,11 +94,11 @@ export const footerLinks = [
     {
         title: "Courses",
         links: [
-            { name: "EMMC Programming", link: "/" },
-            { name: "Face ID & Fingerprint Repair Workshop", link: "/" },
-            { name: "Screen Savior: Broken Glass Replacement ", link: "/" },
-            { name: "iPhone Specialist Training", link: "/" },
-            { name: "Double Decker CPU Repair", link: "/" },
+            { name: "EMMC Programming", link: "/institute" },
+            { name: "Face ID & Fingerprint Repair Workshop", link: "/institute" },
+            { name: "Screen Savior: Broken Glass Replacement ", link: "/institute" },
+            { name: "iPhone Specialist Training", link: "/institute" },
+            { name: "Double Decker CPU Repair", link: "/institute" },
             { name: "and many more.....", link:"./courses.pdf" },
         ],
     },
