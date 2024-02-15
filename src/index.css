@@ -55,3 +55,9 @@
     @apply font-montserrat text-slate-gray text-lg leading-7;
   }
 }
+
+@media (max-width: 640px) {
+  #institute {
+    height: 400px;
+  }
+}
