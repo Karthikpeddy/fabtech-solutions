@@ -1,6 +1,7 @@
 import { copyrightSign } from "../assets/icons";
 import { Fablogo, fabtechlogo,youtube } from "../assets/images";
 import { footerLinks, socialMedia } from "../constants";
+import { facebook, instagram, Whatsapp } from "../assets/icons";
 
 const Footer1 = () => {
   return (
@@ -22,14 +23,29 @@ const Footer1 = () => {
             mobile repair services!
           </p>
           <div className="flex items-center gap-5 mt-6">
-            {socialMedia.map((icon) => (
+            {/* {socialMedia.map((icon) => (
               <div
                 className="flex justify-center items-center w-12 h-12 bg-white rounded-full"
                 key={icon.alt}
               >
                 <img src={icon.src} alt={icon.alt} width={24} height={24} />
               </div>
-            ))}
+            ))} */}
+             <div className="flex justify-center items-center w-12 h-12 bg-white rounded-full">
+            <a href="https://www.facebook.com/profile.php?id=100093593441776">
+              <img src={facebook} alt="" />
+            </a>
+            </div>
+            <div className="flex justify-center items-center w-12 h-12 bg-white rounded-full">
+            <a href="https://www.instagram.com/fabtech7/">
+              <img src={instagram} alt="" />
+            </a>
+            </div>
+            <div className="flex justify-center items-center w-12 h-12 bg-white rounded-full">
+            <a href="https://wa.me/919515159848?text= hello fabtech....">
+              <img src={Whatsapp} alt="" />
+            </a>
+            </div>
           </div>
         </div>
 
