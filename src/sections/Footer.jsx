@@ -34,17 +34,17 @@ const Footer = () => {
               </div>
             ))} */}
             <div className="flex justify-center items-center w-12 h-12 bg-white rounded-full">
-            <a href="https://www.facebook.com/profile.php?id=100093593441776">
+            <a target="blank" href="https://www.facebook.com/profile.php?id=100093593441776">
               <img src={facebook} alt="" />
             </a>
             </div>
             <div className="flex justify-center items-center w-12 h-12 bg-white rounded-full">
-            <a href="https://www.instagram.com/fabtech7/">
+            <a target="blank" href="https://www.instagram.com/fabtech7/">
               <img src={instagram} alt="" />
             </a>
             </div>
             <div className="flex justify-center items-center w-12 h-12 bg-white rounded-full">
-            <a href="https://wa.me/919515159848?text= hello fabtech....">
+            <a target="blank" href="https://wa.me/919515159848?text= hello fabtech....">
               <img src={Whatsapp} alt="" />
             </a>
             </div>
