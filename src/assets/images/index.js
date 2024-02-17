@@ -50,7 +50,7 @@ import c2 from './c2.jpeg'
 import c3 from './c3.jpeg'
 import c4 from './c4.jpeg'
 import c5 from './c5.jpg'
-
+import c6 from './c6.png'
 export { 
     bike1,
     bike2,  
@@ -101,5 +101,6 @@ export {
     c2,
     c3,
     c4,
-    c5
+    c5,
+    c6
 }
