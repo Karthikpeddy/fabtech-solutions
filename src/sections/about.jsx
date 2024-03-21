@@ -15,7 +15,7 @@ const Aboutservices = () => {
           </p>
           <div className="mx-auto">
             <img src={ceo} alt="CEO Image" className="w-40 h-40 rounded-full object-cover mx-auto" />
-            <p className="text-lg font-bold mt-2">M.A Aqeel</p>
+            <p className="text-lg font-bold mt-2">M.A.Aqeel</p>
             <p className="text-sm">Founder of FABTECH MOBILE SOLUTION</p>
           </div>
         </section>

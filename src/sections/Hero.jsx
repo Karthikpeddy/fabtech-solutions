@@ -15,7 +15,7 @@ const Hero = () => {
      gap-5 max-container bg-white"
     >
       <div className="relative xl:w-1/3 flex flex-col justify-center items-start w-full padding-x pt-14">
-        <p className="font-bold text-xl text-red-700">M.A Aqeel</p>
+        <p className="font-bold text-xl text-red-700">M.A.Aqeel</p>
         <h1 className="mt-8 font-palanque sm:text-8xl font-bold text-7xl">
           FABTECH
           {/* <Typed
