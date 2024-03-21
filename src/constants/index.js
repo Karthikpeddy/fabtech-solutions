@@ -156,8 +156,8 @@ export const courses = [
     {
         
         imgURL: shieldTick,
-        label: "Mobile Lamination and Waterproofing Workshop",
-        subtext: "Protect and preserve with our Mobile Lamination and Waterproofing Workshop"
+        label: "Android and ios chiplevel training",
+        subtext: "Unlock Your Potential: Mastering Chip-Level Training for Android & iOS."
         
     },
     {
@@ -179,12 +179,12 @@ export const repairs = [
         price: "",
     },
     {
-        imgURL: repair01,
+        imgURL: repair02,
         name: "Double Decker CPU Repair",
         price: "",
     },
     {
-        imgURL: repair02,
+        imgURL: repair01,
         name: "Face ID & Finger Print Repair ",
         price: "",
     },

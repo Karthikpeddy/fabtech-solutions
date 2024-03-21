@@ -93,12 +93,12 @@ function Institute() {
         </div><br></br>
         <div className="mx-5">
           <h1 className="font-bold text-4xl text-red-800">
-            ABOUT FABTECH MOBILE SOLUTIONS{" "}
+            ABOUT FABTECH MOBILE SOLUTION{" "}
           </h1>
           <br />
           <p className="">
             <span className="font-bold text-blue-500">
-              Welcome to the Fab Tech Mobile Solutions
+              Welcome to the Fab Tech Mobile Solution
             </span><span className="text-black">
             , where innovation meets education, and excellence is our standard.
             As a leading institution in the field of mobile technology hardware,
@@ -118,7 +118,7 @@ function Institute() {
             well-equipped labs are designed to provide just that. From the
             basics of circuitry to the latest advancements in mobile technology,
             our students have access to cutting-edge resources that prepare them
-            for the challenges of the industry. At Mobile Tech Hardware
+            for the challenges of the industry. At My
             Institute, we believe in personalized guidance. Our instructors take
             the time to understand the unique learning needs of each student,
             ensuring that they receive the attention and support necessary to
