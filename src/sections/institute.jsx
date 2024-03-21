@@ -6,7 +6,7 @@ import Nav1 from "../components/Nav1";
 import Footer1 from "./Footer1";
 import ServiceCard from "../components/ServiceCard";
 import { courses } from "../constants";
-import { c1,c2,c3,c4, c5,c6 ,c7} from "../assets/images";
+import { c1,c2,c3,c4, c5,c6 ,c7,c8} from "../assets/images";
 
 
 function Institute() {
@@ -14,7 +14,7 @@ function Institute() {
     // {
     //   url: "https://i.ytimg.com/vi/gbxvLezdGr0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE8gZShjMA8=&rs=AOn4CLC4E0ek7tQyOq7w9evZabHTR_AcWA",
     // },
-    {url:c7,},
+    {url:c8,},
     {url:c5,},
     // {
     //   url: "https://i.ytimg.com/vi/L3RJP2uEkw0/maxresdefault.jpg",
