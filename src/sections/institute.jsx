@@ -14,7 +14,7 @@ function Institute() {
     // {
     //   url: "https://i.ytimg.com/vi/gbxvLezdGr0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE8gZShjMA8=&rs=AOn4CLC4E0ek7tQyOq7w9evZabHTR_AcWA",
     // },
-    {url:c8,},
+    {url:c7,},
     {url:c5,},
     // {
     //   url: "https://i.ytimg.com/vi/L3RJP2uEkw0/maxresdefault.jpg",
